@@ -17,9 +17,9 @@ Before running the code, please activate this conda environment.
 
 ## Data Preparation
 
-Download food images of Nutrition5K dataset and our best model from [Baidu Netdisk]( https://pan.baidu.com/s/1pf_A0F8rFZzTMi-1Nsp2zg).
+Download food images of Nutrition5K dataset and our best model from [Baidu Netdisk]( https://pan.baidu.com/s/1pf_A0F8rFZzTMi-1Nsp2zg)[code：gw8x].
 
-acess code：gw8x
+
 
 Please ensure the data structure is as below
 
@@ -112,7 +112,7 @@ python compute_eval_statistics.py
 ## Pre-trained Models
 
 You can download pretrained models and our datasets here:
-[Baidu Netdisk]( https://pan.baidu.com/s/1pf_A0F8rFZzTMi-1Nsp2zg).
+[Baidu Netdisk]( https://pan.baidu.com/s/1pf_A0F8rFZzTMi-1Nsp2zg)[code：gw8x].
 
 ## Results
 
