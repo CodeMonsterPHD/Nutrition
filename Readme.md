@@ -1,6 +1,6 @@
 # Nutrition: Coarse-to-Fine Nutrition Prediction 
 
-This repository is the official implementation of [Nutrition: Coarse-to-Fine Nutrition Prediction](https://ieeexplore.ieee.org/document/10246427). In this work, we propose the coarse-to-fine paradigm combined with structure loss to predict nutrition. 
+This repository is the official implementation of [Nutrition: Coarse-to-Fine Nutrition Prediction](https://ieeexplore.ieee.org/document/10246427). In this work, we propose the coarse-to-fine paradigm combined with structure loss to predict nutrition. The network structure is shown in the figure below.
 
 ![](./sources/Framework.png)
 
